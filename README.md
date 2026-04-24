@@ -42,3 +42,5 @@ FAQ
 ---
 
 See: https://github.com/pbatard/libwdi/wiki/FAQ
+
+Hago este commit porque quiero engañar a githubaction y me de el wdi-simple.exe. xdxdfxdxdxdxdxdxdxdxddddxdxdxdxsjajajajaasjjahajajajaj
